@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "cl.h": "c",
+        "cl_version.h": "c"
+    }
+}
